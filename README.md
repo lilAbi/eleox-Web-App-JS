@@ -7,12 +7,12 @@ I) TITLE
 II) Project Description
 
 Created a frontend web application that uses the Eleox Interview API to perform various features:
-	- login authroization to the API
-	- rendering and displaying list of users to the page
-	- delete/add users to the user
-	- protected routes
-	- error handling
-	- display server time
+	login authroization to the API
+	rendering and displaying list of users to the page
+	delete/add users to the user
+	protected routes
+	error handling
+	display server time
 
 III) BUILD/RUN Instructions
 
